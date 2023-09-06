@@ -5,5 +5,3 @@ Para correr el juego hay que correr las siguientes instrucciones en la terminal
 cd game
 python3 ppt.py
 ```
-
-
