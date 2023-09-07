@@ -11,6 +11,7 @@ python3 ppt.py
 ```sh
 git clone
 cd app
+pip3 -m vevnv env
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
